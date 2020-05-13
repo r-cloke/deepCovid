@@ -1,5 +1,5 @@
 # deepCovid
-This is a graph convolutional model from the DeepChem project to screen 10 million commercially available compounds from emolecules.com for mPro SARS-Cov2 hits.
+This is a graph convolutional model imported from the DeepChem project to screen 10 million commercially available compounds from emolecules.com for mPro SARS-Cov2 hits.
 
 The input data set for training was made by combining datasets from two sources to provide more training examples.  The model performed poorly on both data sets in isolation but the combined datasets produce a decent model.
 
